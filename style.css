@@ -1,0 +1,49 @@
+.carousel-item.active.c_item img{
+    height: 700px;
+}
+.a_item{
+   border-right: none;
+   border-left: none;
+   border-top: none;
+   padding:20px 0;
+    background-color: #0dcaf0;
+}
+.a_all_items{
+    margin-top: 20px;
+    background-color: #0dcaf0;
+}
+.accordion-body.a_body{
+    height: 270px;
+    overflow: hidden;
+}
+.accordion_section{
+    background: #0dcaf0;
+    margin-left: 10px;
+}
+.acc_btn{
+    margin-left: 12px;
+}
+button{
+    outline:none !important;
+}
+.m_btn{
+    margin-top: 60px;
+}
+.progressBar{
+    background-color: #0d6efd;
+}
+.p_main{
+    margin-bottom: 30px;
+}
+
+#dropdownMenuButton1 {
+    background: none;
+    border: 1px solid white;
+    outline: none;
+    outline: none;
+    padding: 0px;
+    border-radius: 0px;
+}
+.footers .footer p{
+    color: white;
+}
